@@ -1,7 +1,7 @@
 # ML-Training
 
 ## 1st Training
-Simple training for the fundamentals of Machine Learning
+Simple training for me to learn the fundamentals of Machine Learning
 [DataSet](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
 
 ## 2nd Training
