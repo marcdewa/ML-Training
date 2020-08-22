@@ -1,4 +1,4 @@
-# My Machine Learning Training
+# ML-Training
 
 # 1st Training
 Simple training for the fundamentals of Machine Learning
