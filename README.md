@@ -14,6 +14,6 @@ The hands-on project i have done in this training are :
 
 3. Titanic Survival Project - in this project I'm predicting whether someone would have survived if they were in the titanic ship.
 
-## 1st Training
+## 3rd Training
 Learning how KNN algorithms work and try to implement it by predicting Car quality based on the car feature </br>
 [Dataset](http://techwithtim.net/wp-content/uploads/2019/01/Car-Data-Set.zip)
